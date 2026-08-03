@@ -16,7 +16,7 @@ import {
   Loader2,
 } from "lucide-react";
 
-import { useAuth } from "../../context/AuthContext";
+import { useAuth } from "../../context/Authcontext";
 
 const Register = () => {
   const { register } = useAuth();

@@ -7,7 +7,7 @@ import toast from "react-hot-toast";
 
 import { getServiceById } from "../../services/serviceService";
 import BookingModal from "../../components/bookings/BookingModal";
-import { useAuth } from "../../context/AuthContext";
+import { useAuth } from "../../context/Authcontext";
 
 const ServiceDetails = () => {
   const { id } = useParams();
