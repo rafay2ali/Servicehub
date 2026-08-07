@@ -176,8 +176,9 @@ CLOUDINARY_API_SECRET=YOUR_API_SECRET
 
 # 🚀 Deployment
 
-| Frontend | Vercel   | https://servicehub-rust.vercel.app           |
-| Backend  | Render   | https://servicehub-backend-qf2n.onrender.com |
+| Frontend | Vercel | https://servicehub-rust.vercel.app
+
+| Backend  | Render   | https://servicehub-backend-qf2n.onrender.com
 
 ---
 
